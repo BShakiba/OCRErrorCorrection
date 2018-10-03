@@ -1,4 +1,4 @@
-## This is a markdown file
+## Datasets on OCR Error Correction
 ICDAR 2017 competition on post-ocr text correction:
     dataset : https://sites.google.com/view/icdar2017-postcorrectionocr/dataset?authuser=0
     
