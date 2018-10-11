@@ -173,7 +173,7 @@ def process_data(data_dir, out_dir):
     a = list(zip(list_file, list_out_file))
 
     pool.map(process_file, zip(list_file, list_out_file))
-    #merge_file(data_dir, out_dir)
+    merge_file(data_dir, out_dir)
 
 
 def main():
